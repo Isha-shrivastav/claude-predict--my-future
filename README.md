@@ -5,7 +5,7 @@ An AI-powered Vedic astrology infographic generator created using prompt enginee
 
 ## ✨ Features
 
-- AI-generated astrology infographic
+- AI-generated astrology infographic 
 - Minimal violet-themed design
 - Vedic Lagna (Rashi) Chart
 - Wealth Prediction
