@@ -15,6 +15,8 @@ An AI-powered Vedic astrology infographic generator created using prompt enginee
 
 ## 🖼️ Preview
 
+![Claude Predict My Future](WhatsApp%20Image%202026-06-28%20at%2007.16.00.jpeg)w
+
 Upload your project image here and display it:
 
 ![Preview](preview.png)
